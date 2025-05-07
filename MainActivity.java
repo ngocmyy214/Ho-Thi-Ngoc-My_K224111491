@@ -1,4 +1,4 @@
-package com.lenguyenthanhnha.k22411caproject2;
+package com.hothingocmy.k22411caproject2;
 
 import android.content.Context;
 import android.content.res.Configuration;
