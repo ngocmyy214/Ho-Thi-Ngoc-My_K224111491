@@ -19,8 +19,8 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText edtCofficientA;
-    EditText edtCofficientB;
+    EditText edtCoefficientA;
+    EditText edtCoefficientB;
     TextView txtResult;
 
     @Override
@@ -39,8 +39,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void addViews() {
-        edtCofficientA = findViewById(R.id.edtCoefficientA);
-        edtCofficientB = findViewById(R.id.edtCoefficientB);
+        edtCoefficientA = findViewById(R.id.edtCoefficientA);
+        edtCoefficientB = findViewById(R.id.edtCoefficientB);
         txtResult = findViewById(R.id.txtResult);
     }
 
@@ -67,11 +67,11 @@ public class MainActivity extends AppCompatActivity {
         }
     }
     public void do_next(View view) {
-        edtCofficientA.setText("");
-        edtCofficientB.setText("");
+        edtCoefficientA.setText("");
+        edtCoefficientB.setText("");
         txtResult.setText("");
 
-        edtCofficientA.requestFocus();
+        edtCoefficientA.requestFocus();
     }
     public void do_exit(View view) {
         finish();
