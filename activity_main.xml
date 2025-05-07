@@ -103,6 +103,19 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/title_vietnamese" />
+        <Button
+            android:id="@+id/btnSpanish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Español" />
+
+        <Button
+            android:id="@+id/btnGerman"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Deutsch" />
     </LinearLayout>
 
 </LinearLayout>
