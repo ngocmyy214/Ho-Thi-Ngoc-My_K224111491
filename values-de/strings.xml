@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lineare Gleichung</string>
+    <string name="title_app">Lineare Gleichung</string>
+    <string name="title_coefficient_a">Koeffizient a:</string>
+    <string name="title_coefficient_b">Koeffizient b:</string>
+    <string name="title_solution">Lösen</string>
+    <string name="title_next">Weiter</string>
+    <string name="title_exit">Beenden</string>
+    <string name="title_result">Ergebnisse:</string>
+    <string name="title_infinity">Unendlich viele Lösungen!</string>
+    <string name="title_nosolution">Keine Lösung!</string>
+    <string name="title_languageswitcher">Sprache wechseln</string>
+    <string name="title_hello">Hallo!</string>
+    <string name="title_english">Englisch</string>
+    <string name="title_vietnamese">Vietnamesisch</string>
+</resources>
