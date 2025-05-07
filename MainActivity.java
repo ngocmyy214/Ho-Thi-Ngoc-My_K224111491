@@ -89,5 +89,7 @@ public class MainActivity extends AppCompatActivity {
 
         ((Button) findViewById(R.id.btnEnglish)).setText("English");
         ((Button) findViewById(R.id.btnVietnamese)).setText("Tiếng Việt");
+        ((Button) findViewById(R.id.btnSpanish)).setText("Español");
+        ((Button) findViewById(R.id.btnGerman)).setText("Deutsch");
     }
 }
